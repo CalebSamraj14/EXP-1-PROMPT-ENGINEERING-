@@ -42,6 +42,8 @@ This architecture's ability to efficiently process long-range dependencies and p
 ## 3. 🌐 Applications of Generative AI
 
 The transformative power of Generative AI to create novel content has opened doors to an unprecedented range of applications, reshaping industries and user experiences across various domains.
+
+
 ![images](https://github.com/user-attachments/assets/65b4952b-7b77-4f4c-abb4-e7aeddb79901)
 
 
@@ -104,6 +106,8 @@ The observed scaling laws in LLMs suggest that continued growth in model size an
 
 This section details the systematic approach taken to develop this comprehensive report and presents a summary of its successful outcome.
 
+
+
 <img width="250" height="200" alt="2" src="https://github.com/user-attachments/assets/c8e8ae59-f53d-474a-a814-7d62cee3eac0" />
 
 
@@ -160,6 +164,8 @@ The output of this experiment is a comprehensive, five-page technical report, fo
 
 
 ![5](https://github.com/user-attachments/assets/00d08a0c-9fb5-472b-8b2a-23a9f548ad38)
+
+
 
 The experiment successfully produced a comprehensive and professionally structured report on the fundamentals of Generative AI and Large Language Models. Each specified objective was thoroughly addressed:
 
