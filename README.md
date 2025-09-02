@@ -24,7 +24,8 @@ At its heart, Generative AI models are trained on vast datasets, absorbing compl
 
 While various architectures like Generative Adversarial Networks (GANs) and Variational Autoencoders (VAEs) have contributed significantly to Generative AI, the **Transformer architecture** stands out as the backbone of most contemporary Large Language Models (LLMs). Its key innovation, introduced in 2017 by Google Brain, was completely abandoning recurrent and convolutional layers in favor of a mechanism called **self-attention**.
 
-![Detailed diagram of the Transformer Architecture, showing Encoder and Decoder blocks, Self-Attention mechanisms, and Positional Encodings.](https://storage.googleapis.com/gemini-generations/prompt-output/exp_1_report/20240523_README_transformer.png)
+<img width="250" height="200" alt="1" src="https://github.com/user-attachments/assets/4f2bfe09-557d-469c-8569-09027e8269a7" />
+
 
 Key innovations and components of the Transformer architecture include:
 * **Self-Attention:** This mechanism allows the model to weigh the importance of different words in an input sequence relative to each other, effectively capturing long-range dependencies and contextual relationships without being limited by sequential processing.
@@ -41,8 +42,8 @@ This architecture's ability to efficiently process long-range dependencies and p
 ## 3. 🌐 Applications of Generative AI
 
 The transformative power of Generative AI to create novel content has opened doors to an unprecedented range of applications, reshaping industries and user experiences across various domains.
+![images](https://github.com/user-attachments/assets/65b4952b-7b77-4f4c-abb4-e7aeddb79901)
 
-![Collage or montage illustrating diverse Generative AI applications: generated text, AI art, music composition, drug discovery, and industrial design.](https://storage.googleapis.com/gemini-generations/prompt-output/exp_1_report/20240523_README_apps.png)
 
 Here are some key application areas:
 
@@ -73,7 +74,8 @@ These applications merely scratch the surface of Generative AI's potential, with
 
 The era of Large Language Models is fundamentally defined by the impact of **scaling** – the process of dramatically increasing the number of parameters in a model, the volume and diversity of its training data, and the computational resources allocated for training. This scaling leads to profound and often unpredictable changes in model capabilities.
 
-![Dynamic graph illustrating the impact of scaling on LLM capabilities, showing emergent abilities appearing as parameters and data volume increase.](https://storage.googleapis.com/gemini-generations/prompt-output/exp_1_report/20240523_README_scaling.png)
+<img width="250" height="200" alt="4" src="https://github.com/user-attachments/assets/ac4137d7-37a8-4d1b-934a-8347628a43c1" />
+
 
 #### 4.1. Emergent Abilities
 As LLMs scale beyond certain thresholds (often hundreds of billions of parameters), they begin to exhibit capabilities that were not explicitly programmed or even anticipated in smaller models. These include:
@@ -98,9 +100,12 @@ The observed scaling laws in LLMs suggest that continued growth in model size an
 
 ---
 
-## 5. 🛠️ Algorithm, Output, and Result Overview
+## 5.  Algorithm, Output, and Result Overview
 
 This section details the systematic approach taken to develop this comprehensive report and presents a summary of its successful outcome.
+
+<img width="250" height="200" alt="2" src="https://github.com/user-attachments/assets/c8e8ae59-f53d-474a-a814-7d62cee3eac0" />
+
 
 ### 5.1. Algorithm
 
@@ -153,7 +158,8 @@ The output of this experiment is a comprehensive, five-page technical report, fo
 
 ### 5.3. Result
 
-![Symbolic image of human-AI collaboration and a positive future for AI development.](https://storage.googleapis.com/gemini-generations/prompt-output/exp_1_report/20240523_README_conclusion.png)
+
+![5](https://github.com/user-attachments/assets/00d08a0c-9fb5-472b-8b2a-23a9f548ad38)
 
 The experiment successfully produced a comprehensive and professionally structured report on the fundamentals of Generative AI and Large Language Models. Each specified objective was thoroughly addressed:
 
